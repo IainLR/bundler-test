@@ -1,1 +1,3 @@
-module.exports = 'Hi There'
+// module.exports = 'Hi There'
+
+export default 'Hi there'
